@@ -19,7 +19,6 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 Data:
-
 1) 'features_info.txt': The variables used on the feature vector
 2) 'features.txt': List of all features
 3) 'activity_labels.txt': Links the class labels with activity name
